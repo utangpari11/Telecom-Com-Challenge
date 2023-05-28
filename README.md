@@ -1,6 +1,6 @@
 # Telecom Com Challenge
  
 
-![C3_work_21.jpg](imag1)
+![imag1](C3_work_21.jpg)
 
-![C3_work_22.jpg](imag12)
+![imag12](C3_work_22.jpg)
